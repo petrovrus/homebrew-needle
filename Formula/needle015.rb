@@ -1,4 +1,4 @@
-class Needle < Formula
+class Needle015 < Formula
     desc "Compile-time safe Swift dependency injection framework with real code"
     homepage "https://github.com/uber/needle"
     url "https://github.com/uber/needle.git",
